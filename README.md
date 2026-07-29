@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi, I'm Samarth Joshi 👋
 
-<!--
-**samy0816/samy0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Designer × Full-Stack Engineer
 
-Here are some ideas to get you started:
+I design products that people love to use and build the systems that power them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits at the intersection of **Product Thinking, UX Design, AI, and Full-Stack Engineering**. I enjoy taking ideas from user research and wireframes to scalable, production-ready applications.
+
+Currently, I'm pursuing my Master's in Computer Science at Universität des Saarlandes while building AI-powered educational products used in real classrooms across Germany. I love solving complex problems by combining thoughtful design with clean engineering. 🚀
+
+## What I Do
+
+🎨 Design intuitive digital experiences
+
+💻 Build scalable full-stack applications
+
+🤖 Develop AI-powered products and workflows
+
+📊 Turn user research into product decisions
+
+🚀 Ship products from idea to production
+
+## Tech Stack
+
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML/CSS
+
+**Backend**
+- ASP.NET Core
+- Node.js
+- Express.js
+- REST APIs
+- SQL
+- MongoDB
+
+**Design**
+- Figma
+- Design Systems
+- User Research
+- Wireframing
+- Prototyping
+- Accessibility
+
+**AI**
+- OpenAI API
+- LLM Applications
+- RAG
+- AI Agents
+- Prompt Engineering
+
+**Tools**
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Azure
+- Jira
+- Notion
+
+## What you'll find here
+
+- 🚀 Full-stack applications
+- 🎨 Product & UX case studies
+- 🤖 AI experiments
+- 🛠 Open-source projects
+- 💡 Ideas I'm exploring
+
+## Current Focus
+
+- Building AI-first products
+- Designing better developer experiences
+- Human-centered product design
+- Modern web technologies
+
+## Let's Connect
+
+🌐 Portfolio: https://samarthsportfolio.netlify.app
+
+💼 LinkedIn: linkedin.com/in/samarth-joshi-3b1a7218b
+
+📫 Email: samarthjoshi1608@gmail.com
+
+---
+
+> *"Great products happen when thoughtful design meets great engineering."*
