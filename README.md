@@ -85,7 +85,6 @@ Currently, I'm pursuing my Master's in Computer Science at Universität des Saar
 
 📫 Email: samarthjoshi1608@gmail.com
 
----
 ## Outside of GitHub
 
 Life isn't all pull requests and Figma files.
@@ -96,5 +95,7 @@ You'll usually find me:
 - 🌍 Traveling to "unplug"... only to come back with 500 photos and twice as many ideas.
 
 I like building products, but I'm also a firm believer that the best ideas usually arrive when you're away from your laptop.
+---
+
 
 > *"Great products happen when thoughtful design meets great engineering."*
