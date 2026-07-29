@@ -21,46 +21,17 @@ Currently pursuing a Master's in Computer Science at Universität des Saarlandes
 🚀 Ship products from idea to production
 
 ## Tech Stack
+**Product:** Product Discovery • User Research • UX • Design Systems
 
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML/CSS
+**Frontend:** React • Next.js • TypeScript • JavaScript • Tailwind CSS
 
-**Backend**
-- ASP.NET Core
-- Node.js
-- Express.js
-- REST APIs
-- SQL
-- MongoDB
+**Backend:** ASP.NET Core • Node.js • Express.js • REST APIs • SQL • MongoDB
 
-**Design**
-- Figma
-- Design Systems
-- User Research
-- Wireframing
-- Prototyping
-- Accessibility
+**AI:** OpenAI API • LLMs • RAG • AI Agents • Prompt Engineering
 
-**AI**
-- OpenAI API
-- LLM Applications
-- RAG
-- AI Agents
-- Prompt Engineering
+**Cloud & DevOps:** Docker • Kubernetes • Azure • CI/CD • GitHub Actions • Git
 
-**Tools**
-- Git
-- GitHub
-- Docker
-- Kubernetes
-- Azure
-- Jira
-- Notion
+**Tools:** Figma • Miro • Jira • Notion
 
 ## What you'll find here
 
