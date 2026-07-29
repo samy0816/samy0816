@@ -6,7 +6,7 @@ I design products that people love to use and build the systems that power them.
 
 My work sits at the intersection of **Product Thinking, UX Design, AI, and Full-Stack Engineering**. I enjoy taking ideas from user research and wireframes to scalable, production-ready applications.
 
-Currently, I'm pursuing my Master's in Computer Science at Universität des Saarlandes while building AI-powered educational products used in real classrooms across Germany. I love solving complex problems by combining thoughtful design with clean engineering. 🚀
+Currently pursuing a Master's in Computer Science at Universität des Saarlandes, where I'm exploring how AI, design, and engineering come together to build products that people actually enjoy using. Most days you'll find me turning ideas into prototypes—and prototypes into products. 🚀
 
 ## What I Do
 
