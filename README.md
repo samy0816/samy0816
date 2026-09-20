@@ -25,9 +25,9 @@ Currently pursuing a Master's in Computer Science at Universität des Saarlandes
 
 **Frontend:** React • Next.js • TypeScript • JavaScript • Tailwind CSS
 
-**Backend:** ASP.NET Core • Node.js • Express.js • REST APIs • SQL • MongoDB
+**Backend:** ASP.NET Core • Node.js • FastAPI • Express.js • REST APIs • SQL • MongoDB
 
-**AI:** OpenAI API • LLMs • RAG • AI Agents • Prompt Engineering
+**AI:** OpenAI API • LLMs • RAG • AI Agents • Prompt Engineering • LangChain • NLP •
 
 **Cloud & DevOps:** Docker • Kubernetes • Azure • CI/CD • GitHub Actions • Git
 
@@ -35,11 +35,11 @@ Currently pursuing a Master's in Computer Science at Universität des Saarlandes
 
 ## What you'll find here
 
-- 🚀 Full-stack applications
-- 🎨 Product & UX case studies
-- 🤖 AI experiments
-- 🛠 Open-source projects
-- 💡 Ideas I'm exploring
+- Full-stack applications
+- Product & UX case studies
+- AI experiments
+- Open-source projects
+- Ideas I'm exploring
 
 ## Current Focus
 
@@ -50,20 +50,20 @@ Currently pursuing a Master's in Computer Science at Universität des Saarlandes
 
 ## Let's Connect
 
-🌐 Portfolio: https://samarthsportfolio.netlify.app
+ Portfolio: https://samarthsportfolio.netlify.app
 
-💼 LinkedIn: linkedin.com/in/samarth-joshi-3b1a7218b
+LinkedIn: linkedin.com/in/samarth-joshi-3b1a7218b
 
-📫 Email: samarthjoshi1608@gmail.com
+Email: samarthjoshi1608@gmail.com
 
 ## Outside of GitHub
 
 Life isn't all pull requests and Figma files.
 
 You'll usually find me:
-- 🎹 Playing the piano until I convince myself I'm improving.
-- 🍝 Cooking recipes that looked much easier on YouTube.
-- 🌍 Traveling to "unplug"... only to come back with 500 photos and twice as many ideas.
+- Playing the piano until I convince myself I'm improving.
+- Cooking recipes that looked much easier on YouTube.
+- Traveling to "unplug"... only to come back with 500 photos and twice as many ideas.
 
 ---
 
